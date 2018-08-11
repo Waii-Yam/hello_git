@@ -1,4 +1,11 @@
 # hello_git
-guided by git guide
+Testing about branch 
+---------------------
+---------------------
 
-commit changes on new branch readme-edits
+**guided by git guide**
+- commit changes on new branch readme-edits
+- commit changes second time to know more clearly 
+- and to know how to put a new line
+"emphasize"
+'Link <https://www.google.com>'_
